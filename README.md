@@ -12,5 +12,5 @@ How it works?
     Share the product with a friend who has the application installed
 
 Screenshots
-
+<img src = "https://cloud.githubusercontent.com/assets/13875257/18464252/d95f7420-795d-11e6-9070-cb4b81f1cabc.png">
 
