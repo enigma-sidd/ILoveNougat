@@ -13,5 +13,6 @@ How it works?
 
 Screenshots
 
-<img src="https://cloud.githubusercontent.com/assets/13875257/18464252/d95f7420-795d-11e6-9070-cb4b81f1cabc.png"  align="left" height="48" width="48" ></img>
-
+<img src="https://cloud.githubusercontent.com/assets/13875257/18464252/d95f7420-795d-11e6-9070-cb4b81f1cabc.png"  align="left" height="400" width="200" ></img>
+<img src="https://cloud.githubusercontent.com/assets/13875257/18464252/d95f7420-795d-11e6-9070-cb4b81f1cabc.png"  align="left" height="400" width="200" ></img>
+<img src="https://cloud.githubusercontent.com/assets/13875257/18464252/d95f7420-795d-11e6-9070-cb4b81f1cabc.png"  align="left" height="400" width="200" ></img>
