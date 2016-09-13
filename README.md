@@ -14,5 +14,7 @@ How it works?
 Screenshots
 
 <img src="https://cloud.githubusercontent.com/assets/13875257/18464252/d95f7420-795d-11e6-9070-cb4b81f1cabc.png"  align="left" height="400" width="200" ></img>
-<img src="https://cloud.githubusercontent.com/assets/13875257/18464252/d95f7420-795d-11e6-9070-cb4b81f1cabc.png"  align="left" height="400" width="200" ></img>
-<img src="https://cloud.githubusercontent.com/assets/13875257/18464252/d95f7420-795d-11e6-9070-cb4b81f1cabc.png"  align="left" height="400" width="200" ></img>
+<img src="https://cloud.githubusercontent.com/assets/13875257/18464253/d963f630-795d-11e6-95ee-4223a57e521e.png"  align="left" height="400" width="200" ></img>
+<img src="https://cloud.githubusercontent.com/assets/13875257/18464250/d95e883a-795d-11e6-9893-695ef2546766.png"  align="left" height="400" width="200" ></img>
+<img src="https://cloud.githubusercontent.com/assets/13875257/18464251/d95ee3c0-795d-11e6-8c01-752937d9b125.png"  align="left" height="400" width="200" ></img>
+
